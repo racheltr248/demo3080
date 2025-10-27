@@ -119,5 +119,3 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   arrow-left: arrow-left
 #   arrow-right: arrow-right
 #   arrow-down: arrow-down
-
-theme: jekyll-theme-cayman
