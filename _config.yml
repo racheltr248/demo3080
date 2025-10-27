@@ -28,7 +28,7 @@ tagline: We're using CollectionBuilder!
 description: "This is my in-class demo"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Rachel Tait-Ripperdan
-theme: jekyll-theme-cayman
+theme: pages-themes/cayman@v0.2.0
 
 ##########
 # COLLECTION SETTINGS
