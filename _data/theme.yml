@@ -14,8 +14,6 @@ home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: # Default is center
 
-theme: jekyll-theme-cayman
-
 ##########
 # ITEM PAGE
 #
@@ -121,3 +119,5 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 #   arrow-left: arrow-left
 #   arrow-right: arrow-right
 #   arrow-down: arrow-down
+
+theme: jekyll-theme-cayman
